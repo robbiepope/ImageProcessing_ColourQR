@@ -239,4 +239,4 @@ class ColourQR:
 # %%
 # Input folder path here:
 ColourQR(
-    folderpath='/Users/robbie/Documents/!Uni-Data_Science_Masters/S2-Image_Processing/4-Assignment/images2 2/Noise').colourMatrix()
+    folderpath='FOLDER').colourMatrix()
